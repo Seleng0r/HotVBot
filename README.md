@@ -15,6 +15,6 @@ current commands:
 -helppot
 
 ## To Do:
--Implement working points system \n
--Allow users with elevated permsions to set claims \n
--Functional roles system \n
+-Implement working points system\ 
+-Allow users with elevated permsions to set claims\ 
+-Functional roles system\
