@@ -1,0 +1,3 @@
+exports.run = (client, msg, args) => {
+    msg.channel.send('1: Spamming, advertising (of paid services or content that is not related to the Elder Scrolls) or automated messages are forbidden. 2: No harassment of other users. Threats, insults, abusive, inflammatory comments, and hate speech are forbidden and result in an immediate ban. 3: Political discussion is welcome & encouraged in this server, so long as it is relegated in the #off-topic channel, kept civil, and adheres to the other rules laid out. 4: Sexual or illegal media/content is forbidden');
+}
