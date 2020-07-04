@@ -1,3 +1,3 @@
 exports.run = (client, msg, args) => {
-    msg.channel.send('HELLO COMRADE!');
+    msg.channel.send("```HELLO COMRADE!```");
 }

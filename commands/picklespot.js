@@ -1,3 +1,3 @@
 exports.run = (client, msg, args) => {
-    msg.channel.send('Dont do this');
+    msg.channel.send("```Why even say that?```");
 }
