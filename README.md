@@ -26,6 +26,10 @@ current commands:
 
 -helppot
 
+-picklespot
+
+-dunelorepot
+
 
 ## To Do:
 -Implement working points system
