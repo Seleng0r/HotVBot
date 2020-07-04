@@ -36,4 +36,8 @@ current commands:
 
 -Allow users with elevated permsions to set claims
 
+<<<<<<< HEAD
 -Functional roles system
+=======
+-Functional roles system
+>>>>>>> b3c1edc9c11016c5ce2717040b10b26735c74538
